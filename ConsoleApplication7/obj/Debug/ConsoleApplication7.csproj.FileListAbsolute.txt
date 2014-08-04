@@ -1,0 +1,11 @@
+c:\users\antonio gil espinosa\documents\visual studio 2010\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+c:\users\antonio gil espinosa\documents\visual studio 2010\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+c:\users\antonio gil espinosa\documents\visual studio 2010\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+c:\users\antonio gil espinosa\documents\visual studio 2010\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+c:\users\antonio gil espinosa\documents\visual studio 2010\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\Agile.Core.dll
+c:\users\antonio gil espinosa\documents\visual studio 2010\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\Newtonsoft.Json.dll
+c:\users\antonio gil espinosa\documents\visual studio 2010\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\Agile.Core.pdb
+c:\users\antonio gil espinosa\documents\visual studio 2010\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\Newtonsoft.Json.xml
+c:\users\antonio gil espinosa\documents\visual studio 2010\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\es\Agile.Core.resources.dll
+c:\users\antonio gil espinosa\documents\visual studio 2010\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\Faker.dll
+c:\users\antonio gil espinosa\documents\visual studio 2010\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
