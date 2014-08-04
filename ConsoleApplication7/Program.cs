@@ -25,6 +25,7 @@ namespace ConsoleApplication7
    
     class Program
     {
+        //Esta funcion quita los  mnuertos
         private static void QuitarMuertos(List<Monstruo> original)
         {
             List<Monstruo> temporal = new List<Monstruo>();
