@@ -9,5 +9,5 @@ c:\users\antonio gil espinosa\documents\visual studio 2010\Projects\ConsoleAppli
 c:\users\antonio gil espinosa\documents\visual studio 2010\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\es\Agile.Core.resources.dll
 c:\users\antonio gil espinosa\documents\visual studio 2010\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\Faker.dll
 c:\users\antonio gil espinosa\documents\visual studio 2010\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
-E:\Proyectos\aprendizaje-aguilas\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
-E:\Proyectos\aprendizaje-aguilas\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\hufiel\Desktop\Proyectos programacion\aprendizaje-aguilas\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\hufiel\Desktop\Proyectos programacion\aprendizaje-aguilas\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
