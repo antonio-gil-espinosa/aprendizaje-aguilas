@@ -1,0 +1,5 @@
+C:\Users\Juan\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\x86\Debug\ConsoleApplication2.exe.config
+C:\Users\Juan\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\x86\Debug\ConsoleApplication2.exe
+C:\Users\Juan\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\x86\Debug\ConsoleApplication2.pdb
+C:\Users\Juan\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+C:\Users\Juan\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
